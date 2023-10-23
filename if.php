@@ -2,7 +2,7 @@
 $username= 'Kholoud';
 $email ='nh@gmail.com';
 if ($username !== "Nour Homsi" And $email ==='nh@gmail.com') {
-   echo 'Welcome: $username';
+   echo 'Welcome: Kholoud';
 }
 ?>
 
